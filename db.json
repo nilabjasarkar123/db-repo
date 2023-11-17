@@ -1,0 +1,62 @@
+[
+    {
+      "grievance_status_id": 1,
+      "grievance_status_desc": "Submitted by  Member"
+    },
+    {
+      "grievance_status_id": 2,
+      "grievance_status_desc": "Edited by Member"
+    },
+    {
+      "grievance_status_id": 3,
+      "grievance_status_desc": "Revoked by Member"
+    },
+    {
+      "grievance_status_id": 4,
+      "grievance_status_desc": "Received by GCH"
+    },
+    {
+      "grievance_status_id": 5,
+      "grievance_status_desc": "Received by GCM"
+    },
+    {
+      "grievance_status_id": 6,
+      "grievance_status_desc": "Assigned to RO-GO"
+    },
+    {
+      "grievance_status_id": 7,
+      "grievance_status_desc": "Assigned to CC-GO"
+    },
+    {
+      "grievance_status_id": 8,
+      "grievance_status_desc": "Assigned to C-DAC"
+    },
+    {
+      "grievance_status_id": 9,
+      "grievance_status_desc": "Resolved by RO"
+    },
+    {
+      "grievance_status_id": 10,
+      "grievance_status_desc": "Resolved by CC"
+    },
+    {
+      "grievance_status_id": 11,
+      "grievance_status_desc": "Resolved by C-DAC"
+    },
+    {
+      "grievance_status_id": 12,
+      "grievance_status_desc": "Update status as Resolved by GCM"
+    },
+    {
+      "grievance_status_id": 13,
+      "grievance_status_desc": "Closed by GCM"
+    },
+    {
+      "grievance_status_id": 14,
+      "grievance_status_desc": "Update status as Resolved by GCH"
+    },
+    {
+      "grievance_status_id": 15,
+      "grievance_status_desc": "Closed by GCH"
+    }
+  ]
